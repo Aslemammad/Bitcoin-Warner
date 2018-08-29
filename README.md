@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="http://www.metalsucks.net/wp-content/uploads/2018/04/napalm_death_silicon_valley.jpg" width="350" title="hover text">  
-</p>
-
 ![alt text](http://www.metalsucks.net/wp-content/uploads/2018/04/napalm_death_silicon_valley.jpg)
 
 # Bitcoin warner
