@@ -18,7 +18,7 @@ thanks for <b>PascalCase Community</b> and [<b>Kia Hamedi</b>](https://t.me/happ
 
 ## Use
 
-To run the project from the command line, go to the dist folder and
+To run the project from the command line, go to the <b>dist</b> folder and
 type the following:
 
 ```
