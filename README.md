@@ -1,7 +1,35 @@
-<p>&nbsp;</p>
-<p><strong style="font-size: 14px;"><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><em><img src="https://i.ytimg.com/vi/uS1KcjkWdoU/maxresdefault.jpg" alt="" width="536" height="206" /></em></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>&nbsp;</p>
-<p><span style="color: #339967; background-color: #ffffff;"><strong><em>Bitcoin Warner</em></strong></span><br /> this project is Bitcoin warner (in silicon valley film) with more Features.<br /> project by:Mohammad Bagher Abiat<br /> telegram :<span style="color: #3366ff;">@MBAbiat</span><br /> github : <a href="http://github.com/MBAbiat">github.com/MBAbiat</a><br /> this project is very funny.<br /> thanks for <span style="color: #ff6600;"><strong>PascalCase Community</strong> </span>and <strong>kia hamedi(telegram:<span style="color: #3366ff;">@happy722</span>)</strong> to help.<br /> wrote in Wednesday, August 29, 2018</p>
-<p>To run the project from the command line, go to the dist folder and<br />type the following:</p>
-<p><em style="font-size: 14px;">java -jar "bitcion.jar"</em></p>
-<p>&nbsp;</p>
+<p align="center">
+  <img src="http://www.metalsucks.net/wp-content/uploads/2018/04/napalm_death_silicon_valley.jpg" width="350" title="hover text">  
+</p>
+
+![alt text](http://www.metalsucks.net/wp-content/uploads/2018/04/napalm_death_silicon_valley.jpg)
+
+# Bitcoin warner
+This project is Bitcoin warner (in silicon valley film) with more Features.
+
+## By 
+
+Project by:
+- Mohammad Bagher Abiat 
+- Telegram : [@MBAbiat](https://t.me/MBAbiat)
+- Github : [github.com/MBAbiat](https://github.com/MBAbiat)<br>
+This is very fuuuuny project 
+
+## Thanks for
+
+thanks for <b>PascalCase</b> Community and [<b>Kia Hamedi</b>](https://t.me/MBAbiat) to help.<br>
+<b>wrote in Wednesday, August 29, 2018</b>
+
+## Use
+
+To run the project from the command line, go to the dist folder and
+type the following:
+
+```
+java -jar "bitcion.jar"
+```
+
+
+
+
 
