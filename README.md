@@ -4,4 +4,4 @@
 <p>To run the project from the command line, go to the dist folder and<br />type the following:</p>
 <p><em style="font-size: 14px;">java -jar "bitcion.jar"</em></p>
 <p>&nbsp;</p>
-``` java -jar "bitcion.jar"```
+
