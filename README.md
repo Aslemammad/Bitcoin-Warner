@@ -13,7 +13,7 @@ This is very fuuuuny project
 
 ## Thanks for
 
-thanks for <b>PascalCase</b> Community and [<b>Kia Hamedi</b>](https://t.me/MBAbiat) to help.<br>
+thanks for <b>PascalCase</b> Community and [<b>Kia Hamedi</b>](https://t.me/happy722) and [<b>Jadi</b>](https://jadi.net/) to help.<br>
 <b>wrote in Wednesday, August 29, 2018</b>
 
 ## Use
