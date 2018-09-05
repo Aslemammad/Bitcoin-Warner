@@ -15,7 +15,7 @@ This is very fuuuuny project
 
 ## Thanks for
 
-thanks for <b>PascalCase Community</b> and [<b>Kia Hamedi</b>](https://t.me/happy722) and [<b>Jadi</b>](https://jadi.net/) to help.<br>
+thanks for <b>PascalCase Community</b> and [<b>Kia Hamedi</b>](https://t.me/happy722) to help.<br>
 <b>wrote in Wednesday, August 29, 2018</b>
 
 ## Use
