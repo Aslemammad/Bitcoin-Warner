@@ -33,10 +33,11 @@ public class Bitcion {
     static InputStream cheap;
 
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
         System.out.print("\u001B[31m*********************************************************\u001B[0m");//red
         System.out.print("\u001B[32mBitcoin Warner by Mohammad Bagher Abiat\u001B[0m");//green
-        System.out.print("\u001B[34m*********************************************************\u001B[0m");//blue
+        System.out.print("\u001B[34m*********************************************************\u001B[0m\n");//blue
         try {
             String add = "https://api.coinbase.com/v2/prices/spot?currency=USD";//address of coinbase.com api(JSON file)
             URL obj = new URL(add);//object of URL class (_name is : "obj"_)
@@ -64,6 +65,7 @@ public class Bitcion {
                 try {
                     Player play_exp = new Player(bu);
                     Player play_che = new Player(c_heap);
+                    Time.timeprint();
                     System.out.print("\n\u001B[35mDo you think the price of bitcoin is lower than what price??(USD) : \u001B[0m");
                     double think_price = input.nextDouble();
                     if (amount > think_price) {
